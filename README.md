@@ -10,8 +10,9 @@ I work on time series, probability, and quantitative research. Lately I've been 
 - 🧠 Parkinson's gait analysis — in progress
 
 **Currently learning**
+- MIT 9.13 The Human Brain
+- MIT 9.40 Introduction to Neural Computation
 - Computational neuroscience (Neuromatch Academy)
-- Stochastic processes and time series for neural data
 
 Always happy to talk about AI for science, neuroscience, or quant research.
 [LinkedIn](linkedin.com/in/athenayunliu) · yunliunyc@gmail.com
