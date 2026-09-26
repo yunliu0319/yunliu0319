@@ -14,4 +14,4 @@ I work on time series, probability, and quantitative research. Lately I've been 
 - Stochastic processes and time series for neural data
 
 Always happy to talk about AI for science, neuroscience, or quant research.
-[LinkedIn](link) · yunliunyc@gmail.com
+[LinkedIn](linkedin.com/in/athenayunliu) · yunliunyc@gmail.com
